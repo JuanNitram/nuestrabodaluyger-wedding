@@ -688,7 +688,7 @@ input[type=radio]:checked:before {
 
 /* ===== Main style ===== */
 #oliven-main {
-    width: 78%;
+    width: 100%;
     float: right;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
@@ -696,7 +696,7 @@ input[type=radio]:checked:before {
 }
 @media screen and (max-width: 1200px) {
     #oliven-main {
-        width: 70%;
+        width: 100%;
     }
 }
 @media screen and (max-width: 768px) {

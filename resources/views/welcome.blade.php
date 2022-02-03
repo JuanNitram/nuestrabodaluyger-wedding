@@ -13,20 +13,6 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <!-- FOR IE9 below -->
-    <!--[if lt IE 9]>
-        <script src="js/respond.min.js"></script>
-    <![endif]-->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144098545-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-144098545-1');
-    </script>
 </head>
 <body>
     <!-- Preloader -->
@@ -36,37 +22,7 @@
         </div>
     </div>
     <!-- Main -->
-    <div id="oliven-page"> <a href="#" class="js-oliven-nav-toggle oliven-nav-toggle"><i></i></a>
-        <!-- Sidebar Section -->
-        <aside id="oliven-aside">
-            <!-- Logo -->
-            <div class="oliven-logo">
-                <a href="index.html">
-                    <img src="images/logo.png" alt="">
-                    <span>Olivia <small>&</small> Enrico</span>
-                    <h6>15.11.2022</h6>
-                </a>
-            </div>
-            <!-- Menu -->
-            <nav class="oliven-main-menu">
-                <ul>
-                    <li><a href="index.html#home">Home</a></li>
-                    <li><a href="index.html#couple">Couple</a></li>
-                    <li><a href="index.html#story">Our Story</a></li>
-                    <li><a href="index.html#friends">Friends</a></li>
-                    <li><a href="index.html#organization">Organization</a></li>
-                    <li><a href="index.html#gallery">Gallery</a></li>
-                    <li><a href="index.html#whenwhere">When & Where</a></li>
-                    <li><a href="index.html#rsvp">R.S.V.P</a></li>
-                    <li><a href="index.html#gift">Gift Registry</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                </ul>
-            </nav>
-            <!-- Sidebar Footer -->
-            <div class="footer1"> <span class="separator"></span>
-                <p>Olivia & Enrico wedding<br />15 December 2022, New York</p>
-            </div>
-        </aside>
+    <div id="oliven-page">
         <!-- Content Section -->
         <div id="oliven-main">
             <!-- Header & Slider -->
@@ -74,8 +30,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center caption">
-                            <h1 class="animate-box" data-animate-effect="fadeInUp">Olivia & Enrico</h1>
-                            <h5 class="animate-box" data-animate-effect="fadeInUp">15 December, 2022 – New York</h5> 
+                            <h1 class="animate-box" data-animate-effect="fadeInUp">Mariana & Schubert</h1>
+                            <h5 class="animate-box" data-animate-effect="fadeInUp">20 Marzo, 2022 – Rivera</h5> 
                         </div>
                     </div>
                     <div class="row">
