@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Olivia & Enrico Wedding Template</title>
+    <title>Mariana & Schubert</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="images/favicon.png" />
     <link rel="stylesheet" href="css/animate.css">
@@ -31,7 +31,7 @@
                     <div class="row">
                         <div class="col-md-12 text-center caption">
                             <h1 class="animate-box" data-animate-effect="fadeInUp">Mariana & Schubert</h1>
-                            <h5 class="animate-box" data-animate-effect="fadeInUp">20 Marzo, 2022 – Rivera</h5> 
+                            <h5 class="animate-box" data-animate-effect="fadeInUp">12 Marzo, 2022 – Rivera</h5> 
                         </div>
                     </div>
                     <div class="row">
@@ -43,75 +43,7 @@
                     </div>
                 </div>
             </header>
-            <!-- Couple -->
-            <div id="couple" class="bridegroom clear section-padding bg-pink">
-                <div class="container">
-                    <div class="row mb-60">
-                        <div class="col-md-6">
-                            <div class="item toright mb-30 animate-box" data-animate-effect="fadeInLeft">
-                                <div class="img"> <img src="images/bride.jpg" alt=""> </div>
-                                <div class="info valign">
-                                    <div class="full-width">
-                                        <h6>Olivia Martin <i class="ti-heart"></i></h6> <span>The Bride</span>
-                                        <p>Olivia fringilla dui at elit finibus viverra thenec a lacus seda themo the miss druane semper non the fermen.</p>
-                                        <div class="social">
-                                            <div class="full-width">
-                                                <a href="#0" class="icon"> <i class="ti-facebook"></i> </a>
-                                                <a href="#0" class="icon"> <i class="ti-twitter"></i> </a>
-                                                <a href="#0" class="icon"> <i class="ti-instagram"></i> </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="item mb-30 animate-box" data-animate-effect="fadeInRight">
-                                <div class="img"> <img src="images/groom.jpg" alt=""> </div>
-                                <div class="info valign">
-                                    <div class="full-width">
-                                        <h6>Enrico Danilo <i class="ti-heart"></i></h6> <span>The Groom</span>
-                                        <p>Enrico fringilla dui at elit finibus viverra thenec a lacus seda themo the miss druane semper non the fermen.</p>
-                                        <div class="social">
-                                            <div class="full-width">
-                                                <a href="#0" class="icon"> <i class="ti-facebook"></i> </a>
-                                                <a href="#0" class="icon"> <i class="ti-twitter"></i> </a>
-                                                <a href="#0" class="icon"> <i class="ti-instagram"></i> </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
-                            <h3 class="oliven-couple-title">Are getting married!</h3>
-                            <h4 class="oliven-couple-subtitle">December 15, 2022 — New York, Brooklyn</h4> 
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Countdown -->
-            <div id="countdown" class="section-padding bg-img bg-fixed" data-background="images/banner-1.jpg">
-                <div class="container">
-                    <div class="row">
-                        <div class="section-head col-md-12">
-                            <h4>We will become a family in</h4> 
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <ul>
-                                <li><span id="days"></span>Days</li>
-                                <li><span id="hours"></span>Hours</li>
-                                <li><span id="minutes"></span>Minutes</li>
-                                <li><span id="seconds"></span>Seconds</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <!-- Our Story -->
             <div id="story" class="story section-padding">
                 <div class="container">
@@ -123,133 +55,83 @@
                             </div>
                         </div>
                         <div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
-                            <h4 class="oliven-story-subtitle">Our love.</h4>
-                            <h3 class="oliven-story-title">Our Story</h3>
-                            <p>Curabit aliquet orci elit genes tristique lorem commodo vitae. Tuliaum tincidunt nete sede gravida aliquam, neque libero hendrerit magna, sit amet mollis lacus ithe maurise. Dunya erat volutpat edat themo the druanye semper.</p>
-                            <p>Luality fringilla duiman at elit vinibus viverra nec a lacus themo the druanye sene sollicitudin mi suscipit non sagie the fermen.</p>
-                            <p>Phasellus viverra tristique justo duis vitae diam neque nivamus ac est augue artine aringilla dui at elit finibus viverra nec a lacus. Nedana themo eros odio semper soe suscipit non. Curabit aliquet orci elit genes tristique.</p>
-                            <h4>Dec 5th, 2022, We Said Yes!</h4>
-                            <p>Luality fringilla duiman at elit finibus viverra nec a lacus themo the druanye sene sollicitudin mi suscipit non sagie the fermen.</p>
+                            <h4 class="oliven-story-subtitle">Nuestro Amor.</h4>
+                            <h3 class="oliven-story-title">Nuestra Historia</h3>
+                            <p>Nuestra historia empezo hace 10 años y comenzamos a salir hace 8. Luego de un tiempo,  decidimos ir a vivir juntos y comenzar a compartir nuestros sueños.</p> 
+                            <p>Vivimos muchas aventuras alrededor del mundo. Ahora vamos por una aventura más y queremos festejarlo con ustedes.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Friends -->
-            <div id="friends" class="friends section-padding bg-pink">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 mb-30"> 
-                            <span class="oliven-title-meta">Our best friends ever</span>
-                            <h2 class="oliven-title mb-30">Thanks for being there</h2> 
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="owl-carousel owl-theme">
-                                <div class="item">
-                                    <div class="img"> <img src="images/friends/b1.jpg" alt=""> </div>
-                                    <div class="info valign">
-                                        <div class="full-width">
-                                            <h6>Eleanor Chris</h6><span>Bridesmaids</span>
-                                            <p>Enstibulum eringilla dui athe elitene miss minibus viverra nectar.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="img"> <img src="images/friends/w1.jpg" alt=""> </div>
-                                    <div class="info valign">
-                                        <div class="full-width">
-                                            <h6>Stefano Smiht</h6><span>Groomsmen</span>
-                                            <p>Enstibulum eringilla dui athe elitene miss minibus viverra nectar.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="img"> <img src="images/friends/b2.jpg" alt=""> </div>
-                                    <div class="info valign">
-                                        <div class="full-width">
-                                            <h6>Vanessa Brown</h6><span>Bridesmaids</span>
-                                            <p>Enstibulum eringilla dui athe elitene miss minibus viverra nectar.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="img"> <img src="images/friends/w2.jpg" alt=""> </div>
-                                    <div class="info valign">
-                                        <div class="full-width">
-                                            <h6>Matthew Brown</h6><span>Groomsmen</span>
-                                            <p>Enstibulum eringilla dui athe elitene miss minibus viverra nectar.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="img"> <img src="images/friends/b3.jpg" alt=""> </div>
-                                    <div class="info valign">
-                                        <div class="full-width">
-                                            <h6>Fredia Halle</h6><span>Bridesmaids</span>
-                                            <p>Enstibulum eringilla dui athe elitene miss minibus viverra nectar.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="img"> <img src="images/friends/w3.jpg" alt=""> </div>
-                                    <div class="info valign">
-                                        <div class="full-width">
-                                            <h6>Pablo Dante</h6><span>Groomsmen</span>
-                                            <p>Enstibulum eringilla dui athe elitene miss minibus viverra nectar.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <!-- See you -->
-            <div id="seeyou" class="seeyou section-padding bg-img bg-fixed" data-background="images/banner-3.jpg">
+            <div id="seeyou" class="seeyou section-padding bg-img bg-fixed" data-background="images/banner-3.jpeg">
                 <div class="container">
                     <div class="row">
                         <div class="section-head col-md-12 text-center"> 
                             <span><i class="ti-heart"></i></span>
-                            <h4>Looking forward to see you!</h4>
-                            <h3>15.11.2022</h3> 
+                            <h4>Esperamos verte ahí!</h4>
+                            <h3>12.03.2022</h3> 
                         </div>
                     </div>
                 </div>
             </div>
+
             <!-- Organization -->
             <div id="organization" class="organization section-padding bg-pink">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 mb-30"> 
-                            <span class="oliven-title-meta">Wedding</span>
-                            <h2 class="oliven-title">Organization</h2> 
+                            <span class="oliven-title-meta">Detalles</span>
+                            <h2 class="oliven-title">Casamiento</h2> 
                         </div>
                     </div>
-                    <div class="row bord-box bg-img" data-background="images/slider.jpg">
-                        <div class="col-md-3 item-box">
+                    <div class="row bord-box bg-img" style="display: flex; justify-content: center" data-background="images/slider.jpg">
+                        <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">01</h2>
-                            <h6 class="title">Ceremony</h6>
-                            <p>Delta tristiu the jusone duise vitae diam neque nivami mis est augue artine aringilla the at elit finibus vivera.</p>
+                            <h6 class="title">Ceremonia</h6>
+                            <p>
+                                Chacra Magela, Ruta Aeropuerto Gutierrez Ruiz km 4.5, Rivera.
+                                Hora: 16:00
+                            </p>
                         </div>
-                        <div class="col-md-3 item-box">
+                        <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">02</h2>
-                            <h6 class="title">Lunch Time</h6>
-                            <p>Delta tristiu the jusone duise vitae diam neque nivami mis est augue artine aringilla the at elit finibus vivera.</p>
+                            <h6 class="title">Colectivo</h6>
+                            <p>
+                                Mariana Castillo: <br/>
+                                BROU PESOS 001504761 - 00002
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                                Schubert Reyes:<br/>
+                                BROU DOLARES 001349053 - 00004
+                            </p>
                         </div>
-                        <div class="col-md-3 item-box">
+                        <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">03</h2>
-                            <h6 class="title">Party</h6>
-                            <p>Delta tristiu the jusone duise vitae diam neque nivami mis est augue artine aringilla the at elit finibus vivera.</p>
-                        </div>
-                        <div class="col-md-3 item-box">
-                            <h2 class="custom-font numb">04</h2>
-                            <h6 class="title">Cake Cutting</h6>
-                            <p>Delta tristiu the jusone duise vitae diam neque nivami mis est augue artine aringilla the at elit finibus vivera.</p>
+                            <h6 class="title">Vestimenta</h6>
+                            <p>La vestimenta de la ceremonia es formal.</p>
                         </div>
                     </div>
                 </div>
+                <div class="container" style="margin-bottom: 50px; margin-top: 50px">
+                    <div style="display: flex; justify-content: center">
+                        <div class="mapouter" style="background: #ffffff">
+                          <div class="gmap_canvas" style="display:flex; justify-content:center">
+                            <iframe width="900" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=chacra%20la%20tradicion%20camino&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                            
+                            <style>.mapouter{position:relative;text-align:right;height:500px;width:100%;}</style>
+                            <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style>
+                          </div>
+                        </div>
+                      </div>
+                </div>
             </div>
+
             <!-- Gallery -->
             <div id="gallery" class="section-padding">
                 <div class="container">
@@ -327,45 +209,28 @@
                     </div>
                 </div>
             </div>
-            <!-- When & Where -->
-            <div id="whenwhere" class="whenwhere section-padding bg-pink">
+
+            <!-- Countdown -->
+            <div id="countdown" class="section-padding bg-img bg-fixed" data-background="images/banner-1.jpeg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12 mb-30"> <span class="oliven-title-meta">Questions</span>
-                            <h2 class="oliven-title">When & Where</h2> </div>
+                        <div class="section-head col-md-12">
+                            <h4>Seremos familia en</h4> 
+                        </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="owl-carousel owl-theme">
-                                <div class="item">
-                                    <div class="whenwhere-img"> <img src="images/whenwhere/3.jpg" alt=""></div>
-                                    <div class="content">
-                                        <h5>Wedding Ceremony</h5>
-                                        <p><i class="ti-location-pin"></i> 175 Broadway, Brooklyn, New York 11244, USA</p>
-                                        <p><i class="ti-time"></i> <span>12:00am – 13:00pm</span></p>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="whenwhere-img"> <img src="images/whenwhere/1.jpg" alt=""></div>
-                                    <div class="content">
-                                        <h5>Weddding Party</h5>
-                                        <p><i class="ti-location-pin"></i> Fortune Brooklyn restaurant, 149 Broadway, Brooklyn, NY, USA</p>
-                                        <p><i class="ti-time"></i> <span>14:00pm</span></p>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="whenwhere-img"> <img src="images/whenwhere/2.jpg" alt=""></div>
-                                    <div class="content">
-                                        <h5>Accomodations</h5>
-                                        <p><i class="ti-direction-alt"></i> Hotel and distance from wedding party restaurant:</p>
-                                        <p><i class="ti-direction"></i> The William Vale (7 min)</p>
-                                    </div>
-                                </div>
-                            </div>
+                            <ul>
+                                <li><span id="days"></span>Days</li>
+                                <li><span id="hours"></span>Hours</li>
+                                <li><span id="minutes"></span>Minutes</li>
+                                <li><span id="seconds"></span>Seconds</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
+
             <!-- Confirmation -->
             <div id="rsvp" class="section-padding bg-img bg-fixed" data-background="images/banner-2.jpg">
                 <div class="container">
@@ -412,45 +277,16 @@
                     </div>
                 </div>
             </div>
-            <!-- Gift Registry -->
-            <div id="gift" class="gift-section gift">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3 mb-30">
-                            <br> <span class="oliven-title-meta">Gift</span>
-                            <h2 class="oliven-title">Gift Registry</h2> </div>
-                        <div class="col-md-9 owl-carousel owl-theme">
-                            <div class="client-logo">
-                                <a href="#"><img src="images/gift/1.jpg" alt=""></a>
-                            </div>
-                            <div class="client-logo">
-                                <a href="#"><img src="images/gift/2.jpg" alt=""></a>
-                            </div>
-                            <div class="client-logo">
-                                <a href="#"><img src="images/gift/3.jpg" alt=""></a>
-                            </div>
-                            <div class="client-logo">
-                                <a href="#"><img src="images/gift/4.jpg" alt=""></a>
-                            </div>
-                            <div class="client-logo">
-                                <a href="#"><img src="images/gift/5.jpg" alt=""></a>
-                            </div>
-                            <div class="client-logo">
-                                <a href="#"><img src="images/gift/6.jpg" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <!-- Footer -->
             <div class="footer2">
                 <div class="oliven-narrow-content">
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <h2>
-                                <a href="index.html"><img src="images/logo.png" alt=""><span>Olivia <small>&</small> Enrico</span></a>
+                                <a href="index.html"><img src="images/logo.png" alt=""><span>Mariana <small>&</small> Schubert</span></a>
                             </h2>
-                            <p class="copyright">December 15, 2022 – New York, Brooklyn</p>
+                            <p class="copyright">12 Marzo, 2022 – Rivera</p>
                         </div>
                     </div>
                 </div>
