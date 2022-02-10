@@ -93,7 +93,7 @@
                         </div>
                     </div>
                     <div class="row bord-box bg-img" style="display: flex; justify-content: center" data-background="images/slider.jpg">
-                        <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
+                        <div class="col-md-3 item-box" style="height: 520px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">01</h2>
                             <h6 class="title">Ceremonia</h6>
                             <p>
@@ -101,10 +101,10 @@
                                 Hora: 17:30
                             </p>
                             <p>
-                                La confirmación es hasta el 5 de Marzo y se debe adjuntar certificado de vacunación.
+                                Por protocolo COVID se solicita confirmar presencia hasta el 5 de Marzo y se debe adjuntar certificado de vacunación.
                             </p>
                         </div>
-                        <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
+                        <div class="col-md-3 item-box" style="height: 520px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">02</h2>
                             <h6 class="title">Colectivo</h6>
                             <p>
@@ -120,7 +120,7 @@
                                 BROU DOLARES 001349053 - 00004
                             </p>
                         </div>
-                        <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
+                        <div class="col-md-3 item-box" style="height: 520px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">03</h2>
                             <h6 class="title">Vestimenta</h6>
                             <p>La vestimenta de la ceremonia es formal.</p>
