@@ -126,14 +126,15 @@
                 </div>
                 <div class="container" style="margin-bottom: 50px; margin-top: 50px">
                     <div style="display: flex; justify-content: center">
-                        <div class="mapouter" style="background: #ffffff">
+                        {{-- <div class="mapouter" style="background: #ffffff">
                           <div class="gmap_canvas" style="display:flex; justify-content:center">
                             <iframe width="900" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=chacra%20la%20tradicion%20camino&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                             
                             <style>.mapouter{position:relative;text-align:right;height:500px;width:100%;}</style>
                             <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style>
                           </div>
-                        </div>
+                        </div> --}}
+                        <div class="mapouter"><div class="gmap_canvas"><iframe width="900" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=3F7X+W4V,%2040000%20Rivera,%20Departamento%20de%20Rivera&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:900px;}</style><a href="https://www.embedgooglemap.net">embed map on website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:900px;}</style></div></div>
                       </div>
                 </div>
             </div>
