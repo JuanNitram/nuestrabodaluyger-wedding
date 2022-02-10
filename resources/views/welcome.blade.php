@@ -63,7 +63,7 @@
                         <div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
                             <h4 class="oliven-story-subtitle">Nuestro Amor.</h4>
                             <h3 class="oliven-story-title">Nuestra Historia</h3>
-                            <p>Nuestra historia empezo hace 10 años y comenzamos a salir hace 8. Luego de un tiempo,  decidimos ir a vivir juntos y comenzar a compartir nuestros sueños.</p> 
+                            <p>Empezó hace 10 años y comenzamos a salir hace 8. Luego de un tiempo,  decidimos ir a vivir juntos y comenzar a compartir nuestros sueños.</p> 
                             <p>Vivimos muchas aventuras alrededor del mundo. Ahora vamos por una aventura más y queremos festejarlo con ustedes.</p>
                         </div>
                     </div>
