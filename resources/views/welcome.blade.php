@@ -98,7 +98,7 @@
                             <h6 class="title">Ceremonia</h6>
                             <p>
                                 Chacra Magela, Ruta Aeropuerto Gutierrez Ruiz km 4.5, Rivera.
-                                Hora: 16:00
+                                Hora: 17:30
                             </p>
                         </div>
                         <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
