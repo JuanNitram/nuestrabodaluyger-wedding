@@ -3,8 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mariana & Schubert</title>
+
+    <meta property="og:title" content="Mariana & Schubert">
+    <meta property="og:url" content="https://marianayschubert.com">
+    <meta property="og:description" content="¡Nos Casamos!">
+    <meta property="og:site_name" content="Mariana & Schubert">
+    <meta property="og:image" content="https://marianayschubert.com/images/f.jpeg" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <link rel="icon" type="image/png" href="images/favicon.png" />
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/themify-icons.css">
@@ -26,7 +32,7 @@
         <!-- Content Section -->
         <div id="oliven-main">
             <!-- Header & Slider -->
-            <header id="home" class="header valign bg-img parallaxie" data-background="images/slider.jpeg">
+            <header id="home" class="header valign bg-img parallaxie" data-background="images/hero.jpeg">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center caption">
@@ -50,8 +56,8 @@
                     <div class="row">
                         <div class="col-md-5 mb-30">
                             <div class="story-img animate-box" data-animate-effect="fadeInLeft">
-                                <div class="img"> <img src="images/story.jpg" class="img-fluid" alt=""> </div>
-                                <div class="story-img-2 story-wedding" style="background-image: url(images/wedding-logo.png);"></div>
+                                <div class="img"> <img src="images/both.jpeg" class="img-fluid" alt=""> </div>
+                                {{-- <div class="story-img-2 story-wedding" style="background-image: url(images/wedding-logo.png);"></div> --}}
                             </div>
                         </div>
                         <div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
@@ -65,7 +71,7 @@
             </div>
 
             <!-- See you -->
-            <div id="seeyou" class="seeyou section-padding bg-img bg-fixed" data-background="images/banner-3.jpeg">
+            <div id="seeyou" class="seeyou section-padding bg-img bg-fixed" data-background="images/banner3.jpeg">
                 <div class="container">
                     <div class="row">
                         <div class="section-head col-md-12 text-center"> 
@@ -137,72 +143,65 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 mb-30"> 
-                            <span class="oliven-title-meta">Gallery</span>
-                            <h2 class="oliven-title">Our Memories</h2> 
+                            <span class="oliven-title-meta">Galería</span>
+                            <h2 class="oliven-title">Memorias</h2> 
                         </div>
-                    </div>
-                    <div class="row">
-                        <ul class="col list-unstyled list-inline mb-0 gallery-menu" id="gallery-filter">
-                            <li class="list-inline-item"><a class="active" data-filter="*">All</a></li>
-                            <li class="list-inline-item"><a class="" data-filter=".ceremony">Ceremony</a></li>
-                            <li class="list-inline-item"><a class="" data-filter=".party">Party</a></li>
-                        </ul>
                     </div>
                 </div>
                 <div class="container">
                     <div class="row gallery-filter mt-3">
                         <div class="col-md-4 gallery-item ceremony">
-                            <a href="images/gallery/1.jpg" class="img-zoom">
+                            <a href="images/gallery/a.jpeg" class="img-zoom">
                                 <div class="gallery-box">
-                                    <div class="gallery-img"> <img src="images/gallery/1.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
+                                    <div class="gallery-img"> <img src="images/gallery/a.jpeg" class="img-fluid mx-auto d-block" alt=""> </div>
                                     <div class="gallery-detail">
-                                        <h4 class="mb-0">Wedding Ceremony</h4> 
+                                        <h4 class="mb-0">Mariana & Schubert</h4> 
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4 gallery-item party">
-                            <a href="images/gallery/2.jpg" class="img-zoom">
+                            <a href="images/gallery/b.jpeg" class="img-zoom">
                                 <div class="gallery-box">
-                                    <div class="gallery-img"> <img src="images/gallery/2.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
+                                    <div class="gallery-img"> <img src="images/gallery/b.jpeg" class="img-fluid mx-auto d-block" alt=""> </div>
                                     <div class="gallery-detail">
-                                        <h4 class="mb-0">Wedding Party</h4> </div>
+                                        <h4 class="mb-0">Mariana & Schubert</h4> </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4 gallery-item ceremony">
-                            <a href="images/gallery/3.jpg" class="img-zoom">
+                            <a href="images/gallery/c.jpeg" class="img-zoom">
                                 <div class="gallery-box">
-                                    <div class="gallery-img"> <img src="images/gallery/3.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
+                                    <div class="gallery-img"> <img src="images/gallery/c.jpeg" class="img-fluid mx-auto d-block" alt=""> </div>
                                     <div class="gallery-detail">
-                                        <h4 class="mb-0">Wedding Ceremony</h4> </div>
+                                        <h4 class="mb-0">Mariana & Schubert</h4> </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4 gallery-item party">
-                            <a href="images/gallery/4.jpg" class="img-zoom">
+                            <a href="images/gallery/d.jpeg" class="img-zoom">
                                 <div class="gallery-box">
-                                    <div class="gallery-img"> <img src="images/gallery/4.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
+                                    <div class="gallery-img"> <img src="images/gallery/d.jpeg" class="img-fluid mx-auto d-block" alt=""> </div>
                                     <div class="gallery-detail">
-                                        <h4 class="mb-0">Wedding Party</h4> </div>
+                                        <h4 class="mb-0">Mariana & Schubert</h4> </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4 gallery-item ceremony">
-                            <a href="images/gallery/5.jpg" class="img-zoom">
+                            <a href="images/gallery/e.jpeg" class="img-zoom">
                                 <div class="gallery-box">
-                                    <div class="gallery-img"> <img src="images/gallery/5.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
+                                    <div class="gallery-img"> <img src="images/gallery/e.jpeg" class="img-fluid mx-auto d-block" alt=""> </div>
                                     <div class="gallery-detail">
-                                        <h4 class="mb-0">Wedding Ceremony</h4> </div>
+                                        <h4 class="mb-0">Mariana & Schubert</h4> </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4 gallery-item party">
-                            <a href="images/gallery/6.jpg" class="img-zoom">
+                            <a href="images/gallery/f.jpeg" class="img-zoom">
                                 <div class="gallery-box">
-                                    <div class="gallery-img"> <img src="images/gallery/6.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
+                                    <div class="gallery-img"> <img src="images/gallery/f.jpeg" class="img-fluid mx-auto d-block" alt=""> </div>
                                     <div class="gallery-detail">
-                                        <h4 class="mb-0">Wedding Party</h4> </div>
+                                        <h4 class="mb-0">Mariana & Schubert</h4> </div>
                                 </div>
                             </a>
                         </div>
@@ -211,7 +210,7 @@
             </div>
 
             <!-- Countdown -->
-            <div id="countdown" class="section-padding bg-img bg-fixed" data-background="images/banner-1.jpeg">
+            <div id="countdown" class="section-padding bg-img bg-fixed" data-background="images/banner1.jpeg">
                 <div class="container">
                     <div class="row">
                         <div class="section-head col-md-12">
