@@ -293,10 +293,8 @@
                     </div>
                 </div>
             </div>
-            <div class="row" style="display:flex; justify-content: center; margin-top: 5px">
-                <p style="font-size: 14px">
-                    Powered by <a href="https://www.juanvargas.me" title="Juan Vargas" target="_blank">Juan Vargas</a>
-                </p>
+            <div class="row" style="display:flex; justify-content: center; margin-top: 5px; margin-bottom: 5px; font-size: 14px">
+                Powered by &nbsp;<a href="https://www.juanvargas.me" title="Juan Vargas" target="_blank">Juan Vargas</a>
             </div>
         </div>
         <!-- jQuery -->
