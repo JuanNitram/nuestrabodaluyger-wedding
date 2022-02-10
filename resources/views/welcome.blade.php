@@ -100,6 +100,9 @@
                                 Chacra Magela, Ruta Aeropuerto Gutierrez Ruiz km 4.5, Rivera.
                                 Hora: 17:30
                             </p>
+                            <p>
+                                La confirmación es hasta el 5 de Marzo y se debe adjuntar certificado de vacunación.
+                            </p>
                         </div>
                         <div class="col-md-3 item-box" style="height: 450px; margin-right: 10px; margin-left: 10px">
                             <h2 class="custom-font numb">02</h2>
@@ -221,10 +224,10 @@
                     <div class="row">
                         <div class="col-md-12">
                             <ul>
-                                <li><span id="days"></span>Days</li>
-                                <li><span id="hours"></span>Hours</li>
-                                <li><span id="minutes"></span>Minutes</li>
-                                <li><span id="seconds"></span>Seconds</li>
+                                <li><span id="days"></span>Días</li>
+                                <li><span id="hours"></span>Horas</li>
+                                <li><span id="minutes"></span>Minutos</li>
+                                <li><span id="seconds"></span>Segundos</li>
                             </ul>
                         </div>
                     </div>
@@ -235,8 +238,7 @@
             <div id="rsvp" class="section-padding bg-img bg-fixed" data-background="images/banner-2.jpg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 offset-md-3 bg-white p-40"> <span class="oliven-title-meta text-center">Will you attend?</span>
-                            <h2 class="oliven-title text-center">R.S.V.P</h2>
+                        <div class="col-md-6 offset-md-3 bg-white p-40"> <span class="oliven-title-meta text-center">Asistirás?</span>
                             <br>
                             <form class="contact__form" method="post" action="mail.php">
                             <!-- form message -->
