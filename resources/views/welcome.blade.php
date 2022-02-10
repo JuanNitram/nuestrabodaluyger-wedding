@@ -8,7 +8,7 @@
     <meta property="og:url" content="https://marianayschubert.com">
     <meta property="og:description" content="¡Nos Casamos!">
     <meta property="og:site_name" content="Mariana & Schubert">
-    <meta property="og:image" content="https://marianayschubert.com/images/f.jpeg" />
+    <meta property="og:image" content="https://marianayschubert.com/images/gallery/f.jpeg" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link rel="icon" type="image/png" href="images/favicon.png" />
