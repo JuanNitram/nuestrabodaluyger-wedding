@@ -238,39 +238,95 @@
             <div id="rsvp" class="section-padding bg-img bg-fixed" data-background="images/banner-2.jpg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 offset-md-3 bg-white p-40"> <span class="oliven-title-meta text-center">Asistirás?</span>
+                        <div id="et_pb_contact_form_0" class="col-md-6 offset-md-3 bg-white p-40"> <span class="oliven-title-meta text-center">Asistirás?</span>
                             <br>
-                            <form class="contact__form" method="post" action="mail.php">
-                            <!-- form message -->
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="alert alert-success contact__msg" style="display: none" role="alert">
-                                        Your message was sent successfully.
-                                    </div>
-                                </div>
-                            </div>
+                            <form id="attendees_form" class="contact__form" method="post" action="{{ route('wedding.attend') }}" enctype="multipart/form-data">
+                                @csrf
                             <!-- form element -->
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input name="name" type="text" class="form-control" placeholder="Name" required> </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-group">
-                                        <input name="email" type="email" class="form-control" placeholder="Email" required> </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-group">
-                                        <input name="guests" type="text" class="form-control" placeholder="Guests" required> </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-group">
-                                        <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                                        <input name="full_name" type="text" class="form-control" placeholder="Nombre Completo" required>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input name="submit" type="submit" class="btn buttono" value="SEND"> 
+                                        <select name="attend" class="et_pb_contact_select form-control" style="border: 1px solid #ececec;padding: 7px 15px;" required>
+                                            <option disabled selected value="yes">¿Asistirás a nuestro casamiento?</option>
+                                            <option value="yes">Si</option>
+                                            <option value="no">No</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <select id="et_pb_contact_rsvp_0" name="type" class="et_pb_contact_select form-control" style="border: 1px solid #ececec;padding: 7px 15px;" required>
+                                            <option disabled selected value="NOT_DEFINED">¿Vegano, Vegetariano o celíaco?</option>
+                                            <option value="NOT_DEFINED">No define</option>
+                                            <option value="VEGAN">Vegano</option>
+                                            <option value="VEGETARIAN">Vegetariano</option>
+                                            <option value="CELIAC">Celíaco</option>
+                                          </select>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div onclick="document.getElementById('certificate').click()" style="position: relative; padding: 25px; padding-top: 40px; padding-bottom: 40px; margin-bottom: 25px; margin-top: 10px;border: #f6f9fc;border-width: 2px;border-color: #BD945A;border-style: dashed; display:flex justify-content: center;">
+                                        <div id="certificate_name" style="overflow: hidden; display:flex; justify-content:center; margin-top: -25px">
+                                          Certificado de Vacunación
+                                        </div>
+                                        <div style="position: absolute; bottom: 50%; width: 20px; left: 50%;transform: translate(-50%, 140%);">
+                                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 374.116 374.116" style="enable-background:new 0 0 374.116 374.116;" xml:space="preserve" fill="#BD945A">
+                                            <g>
+                                              <path d="M344.058,207.506c-16.568,0-30,13.432-30,30v76.609h-254v-76.609c0-16.568-13.432-30-30-30c-16.568,0-30,13.432-30,30   v106.609c0,16.568,13.432,30,30,30h314c16.568,0,30-13.432,30-30V237.506C374.058,220.938,360.626,207.506,344.058,207.506z"/>
+                                              <path d="M123.57,135.915l33.488-33.488v111.775c0,16.568,13.432,30,30,30c16.568,0,30-13.432,30-30V102.426l33.488,33.488   c5.857,5.858,13.535,8.787,21.213,8.787c7.678,0,15.355-2.929,21.213-8.787c11.716-11.716,11.716-30.71,0-42.426L208.271,8.788   c-11.715-11.717-30.711-11.717-42.426,0L81.144,93.489c-11.716,11.716-11.716,30.71,0,42.426   C92.859,147.631,111.855,147.631,123.57,135.915z"/>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            <g>
+                                            </g>
+                                            </svg>
+                                        </div>
+                                      </div>
+                                </div>
+
+                                {{-- <p class="et_pb_contact_field et_pb_contact_field_0 et_pb_contact_field_last"> --}}
+                                    {{-- <label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Certificado</label> --}}
+                                    <input id="certificate" name="certificate" type='file' required style="background: #f6f9fc; padding: 10px;" hidden/>
+                                  {{-- </p> --}}
+                                
+                                  <input id="certificate_base64" name="certificate_base64" hidden/>
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <input name="submit" type="submit" class="btn buttono" value="Confirmar" style="width: 100%">
                                     </div>
                                 </div> 
                             </div>
@@ -311,49 +367,35 @@
     </div>
 
     <script>
-    // window.onbeforeunload = function () {
-    //   window.scrollTo(0, 0);
-    // }
+    window.onbeforeunload = function () {
+      window.scrollTo(0, 0);
+    }
     
-    // function getBase64(file) {
-    //    var reader = new FileReader();
-    //    reader.readAsDataURL(file);
-    //    reader.onload = function () {
-    //     let element = document.getElementById('certificate_base64');
-    //     element.setAttribute('value', reader.result);
-    //    };
-    //    reader.onerror = function (error) {
-    //      console.log('Error: ', error);
-    //    };
-    // }
+    function getBase64(file) {
+       var reader = new FileReader();
+       reader.readAsDataURL(file);
+       reader.onload = function () {
+        let element = document.getElementById('certificate_base64');
+        element.setAttribute('value', reader.result);
+       };
+       reader.onerror = function (error) {
+         console.log('Error: ', error);
+       };
+    }
     
-    // document.getElementById('certificate').addEventListener('change', function(e) {
-    //   getBase64(e.target.files[0]);
-    //   document.getElementById('certificate_name').innerHTML = e.target.files[0].name;
-    // });
+    document.getElementById('certificate').addEventListener('change', function(e) {
+      getBase64(e.target.files[0]);
+      document.getElementById('certificate_name').innerHTML = e.target.files[0].name;
+    });
     
-    // document.getElementById('attendees_form').addEventListener('submit', function() {
-    //   setTimeout(function() {
-    //     document.getElementById('et_pb_contact_form_0').innerHTML = '<p style="text-align: center; font-size: 25px;">¡Muchas gracias por confirmar tu presencia!</p>';
-    //     setTimeout(function() {
-    //       window.location.reload();
-    //     }, 4500);
-    //   }, 1000);
-    // })
-    
-    // let navOpen = false;
-    // document.getElementById('et_mobile_nav_menu').addEventListener('click', function() {
-    //   navOpen = !navOpen;
-    //   if(navOpen) {
-    //     document.getElementById('mobile_menu').style.display = 'block';
-    //     setTimeout(function() {
-    //       document.getElementById('mobile_menu').style.display = 'none';
-    //       navOpen = false;
-    //     }, 4500);
-    //   } else {
-    //     document.getElementById('mobile_menu').style.display = 'none';
-    //   }
-    // });
+    document.getElementById('attendees_form').addEventListener('submit', function() {
+      setTimeout(function() {
+        document.getElementById('et_pb_contact_form_0').innerHTML = '<p style="text-align: center; font-size: 25px;">¡Muchas gracias por confirmar tu presencia!</p>';
+        setTimeout(function() {
+          window.location.reload();
+        }, 4500);
+      }, 1000);
+    })
     </script>
 </body>
 </html>
