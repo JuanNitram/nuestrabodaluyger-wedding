@@ -572,15 +572,32 @@
 									<p>Veri ubique cu eam, vero dicta ridens ei quo, ex putent menandri accommodare sed. Suscipit lobortis prodesset ut eam. Sale dicta dolore pri et, an aliquam albucius volutpat est.</p>
 								</div>
 								<div id="contact-form-holder" class="margin-t50">
-									<form method="post" id="contact-form" action='https://matchthemes.com/demohtml/tilia/include/contact-process.php'>
+									<form method="post" action="{{ route('wedding.attend') }}" enctype="multipart/form-data">
+										@csrf
+
 										<div class="row">
-											<div class="col-md-4 margin-b30"><input type="text" name="name" class="comm-field" placeholder="Name" /></div>
-											<div class="col-md-4 margin-b30"><input type="text" name="email" class="comm-field" placeholder="Email" /> </div>
-											<div class="col-md-4 margin-b30"><input type="text" name="phone" class="comm-field" placeholder="Phone" /> </div>
+											<div class="col-md-12 margin-b30">
+												<input type="text" name="full_name" class="comm-field" placeholder="Nombre" required/>
+											</div>
 										</div>
-										<div class="margin-b30"><textarea name="message" id="msg-contact" rows="5" placeholder="Message"></textarea></div>
-										<p class="antispam">Leave this empty: <input type="text" name="url" /></p>
-										<input type="submit" value="Send message" class="submit"/>
+
+										<div class="row">
+											<div class="col-md-12 margin-b30">
+												<select name="type" class="comm-field" required>
+													<option disabled selected value="NOT_DEFINED">¿Vegano, Vegetariano o celíaco?</option>
+													<option value="NOT_DEFINED">No define</option>
+													<option value="VEGAN">Vegano</option>
+													<option value="VEGETARIAN">Vegetariano</option>
+													<option value="CELIAC">Celíaco</option>
+												  </select>
+											</div>
+										</div>
+
+										<div class="margin-b30">
+											<textarea name="message" id="msg-contact" rows="5" placeholder="Message"></textarea>
+										</div>
+
+										<input type="submit" value="Confirmar Asistencia" class="submit"/>
 									</form>
 								</div>
 								<!-- contact-form-holder-->

@@ -11,18 +11,4 @@ class Attendant extends Model
     use HasFactory;
 
     protected $table = 'attendees';
-
-    protected $appends = [
-        'certificate_url'
-    ];
-
-    public function getCertificateUrlAttribute()
-    {
-        return config('app.url') . 'storage/' . $this->certificate;
-    }
-
-    public function getCertificateUrl()
-    {
-        return config('app.url') . 'storage/' . $this->certificate;
-    }
 }

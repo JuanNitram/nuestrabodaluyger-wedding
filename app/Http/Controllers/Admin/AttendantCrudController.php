@@ -40,16 +40,13 @@ class AttendantCrudController extends CrudController
      */
     protected function setupListOperation()
     {
-        // CRUD::column('id');
         CRUD::column('full_name');
-        // $this->crud->addColumn(['name' => 'attend', 'label' => 'Attend', 'type' => 'boolean', 'options' => [0 => 'No Attend', 1 => 'Attend']]);
         CRUD::column('type');
-        // CRUD::column('certificate_url');
 
 
         $this->crud->addColumn([
-            'name'  => 'certificate_url',
-            'label' => 'Certificate',
+            'name'  => 'message',
+            'label' => 'Message',
             'type'  => 'text',
             'limit' => 20000
         ]);
@@ -78,7 +75,7 @@ class AttendantCrudController extends CrudController
         CRUD::field('full_name');
         CRUD::field('attend');
         CRUD::column('type');
-        CRUD::field('certificate');
+        CRUD::field('message');
         CRUD::field('created_at');
 
         /**
@@ -106,7 +103,7 @@ class AttendantCrudController extends CrudController
         CRUD::column('full_name');
         $this->crud->addColumn(['name' => 'attend', 'label' => 'Attend', 'type' => 'boolean', 'options' => [0 => 'No Attend', 1 => 'Attend']]);
         CRUD::column('type');
-        CRUD::column('certificate_url');
+        CRUD::column('message');
         CRUD::column('created_at');
     }
 }

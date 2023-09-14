@@ -18,7 +18,7 @@ class CreateAttendeesTable extends Migration
 
             $table->string('full_name');
             $table->boolean('attend');
-            $table->string('certificate');
+            $table->string('message')->nullable();
 
             $table->timestamps();
         });
