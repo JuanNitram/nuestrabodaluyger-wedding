@@ -19,6 +19,8 @@ class AttendanceController
 
         $attendant->save();
 
-        return redirect('/');
+        return response()->json([
+            'success' => true
+        ]);
     }
 }

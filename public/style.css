@@ -4752,7 +4752,6 @@ body.hidden-scroll {
 	}
 	
 	.parallax{ background-attachment: fixed !important;}
-
 }
 
 @media (min-width: 1500px) {
@@ -4772,7 +4771,6 @@ body.hidden-scroll {
 	.foo-block table td {
 		padding: 5px;
 	}
-	
 }
 
 @media (max-width: 1200px) {
