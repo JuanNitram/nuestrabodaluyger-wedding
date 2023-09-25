@@ -536,7 +536,7 @@
 								<br />
 								BBVA - C. Corriente: 22911847 - Lucia Mármol
 							</p>
-						</div>	
+						</div>
 						<!-- /icon-box-2 -->
 					</div>
 					<!-- /col-lg-4 -->
@@ -552,7 +552,9 @@
 							</div>
 							<!-- /icon-svg -->
 							<h5 class="margin-b10 white">Localidad</h5>
-							<p>Harás los vagones <br/> <a href="https://maps.app.goo.gl/vkDGP2yd7TPfVG5P7" target="_blank" style="color: white; text-decoration: underline">Camino de la redención 8660</a></p>
+							<p>Harás los vagones <br /> <a href="https://maps.app.goo.gl/vkDGP2yd7TPfVG5P7"
+									target="_blank" style="color: white; text-decoration: underline">Camino de la
+									redención 8660</a></p>
 						</div>
 						<!-- /icon-box-2 -->
 					</div>
@@ -573,7 +575,30 @@
 							</div>
 							<!-- /icon-svg -->
 							<h5 class="margin-b10 white">Vestimenta</h5>
-							<p>Est sale definitiones id. Ut quo quem harum munere, eu labore voluptatum mei.</p>
+							<div>
+								<span>Código de vestimenta:</span>
+								<div class="text-align: ">
+									<span style="margin-right: 8px">- Blanco</span>
+									<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px"
+										viewBox="0 0 48 48" style="height: 20px; width: 20px" fill="none">
+										<path
+											d="M24 5C34.4934 5 43 13.5066 43 24C43 34.4934 34.4934 43 24 43C13.5066 43 5 34.4934 5 24C5 13.5066 13.5066 5 24 5ZM36.518 13.2502L13.2502 36.518C16.1377 39 19.8937 40.5 24 40.5C33.1127 40.5 40.5 33.1127 40.5 24C40.5 19.8937 39 16.1377 36.518 13.2502ZM24 7.5C14.8873 7.5 7.5 14.8873 7.5 24C7.5 28.1063 9.00002 31.8623 11.482 34.7498L34.7498 11.482C31.8623 9.00002 28.1063 7.5 24 7.5Z"
+											fill="#212121" />
+									</svg>
+								</div>
+								<div>
+									<span style="margin-right: 8px">- Verde&nbsp;&nbsp;</span>
+									<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px"
+										viewBox="0 0 48 48" style="height: 20px; width: 20px" fill="none">
+										<path
+											d="M24 5C34.4934 5 43 13.5066 43 24C43 34.4934 34.4934 43 24 43C13.5066 43 5 34.4934 5 24C5 13.5066 13.5066 5 24 5ZM36.518 13.2502L13.2502 36.518C16.1377 39 19.8937 40.5 24 40.5C33.1127 40.5 40.5 33.1127 40.5 24C40.5 19.8937 39 16.1377 36.518 13.2502ZM24 7.5C14.8873 7.5 7.5 14.8873 7.5 24C7.5 28.1063 9.00002 31.8623 11.482 34.7498L34.7498 11.482C31.8623 9.00002 28.1063 7.5 24 7.5Z"
+											fill="#212121" />
+									</svg>
+								</div>
+							</div>
+							<span>
+								Dejémoslo para la novia y las damas de honor
+							</span>
 						</div>
 						<!-- /icon-box-2 -->
 					</div>
@@ -597,9 +622,11 @@
 								</div>
 								<h5 class="margin-b10"> Lucia</h5>
 								<ul class="social-media social-team">
-									<li><a href="https://www.facebook.com/Luuuulei?mibextid=LQQJ4d" target="_blank"><i class="fab fa-facebook-f"></i></a>
+									<li><a href="https://www.facebook.com/Luuuulei?mibextid=LQQJ4d" target="_blank"><i
+												class="fab fa-facebook-f"></i></a>
 									</li>
-									<li><a href="https://instagram.com/luupita3?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fab fa-instagram"></i></a></li>
+									<li><a href="https://instagram.com/luupita3?igshid=MzRlODBiNWFlZA=="
+											target="_blank"><i class="fab fa-instagram"></i></a></li>
 								</ul>
 							</div>
 							<!-- /col-lg-4 -->
@@ -610,9 +637,11 @@
 								</div>
 								<h5 class="margin-b10">German</h5>
 								<ul class="social-media social-team">
-									<li><a href="https://www.facebook.com/german.piaggio.90?mibextid=LQQJ4d" target="_blank"><i class="fab fa-facebook-f"></i></a>
+									<li><a href="https://www.facebook.com/german.piaggio.90?mibextid=LQQJ4d"
+											target="_blank"><i class="fab fa-facebook-f"></i></a>
 									</li>
-									<li><a href="https://instagram.com/germanpiaggio?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fab fa-instagram"></i></a></li>
+									<li><a href="https://instagram.com/germanpiaggio?igshid=MzRlODBiNWFlZA=="
+											target="_blank"><i class="fab fa-instagram"></i></a></li>
 								</ul>
 							</div>
 							<!-- /col-lg-4 -->
