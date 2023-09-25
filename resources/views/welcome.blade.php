@@ -491,7 +491,7 @@
 		<!-- /SECTION 3 -->
 		<!-- SECTION 4 -->
 		<div id="home-section-6-4" class="section-holder home-section-6-4 parallax parallax05"
-			style="background-image:url(images/pages/contact-page.jpg);">
+			style="background-image:url(images/background.jpg);">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 margin-bm30">
