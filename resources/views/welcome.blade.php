@@ -4,6 +4,13 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta property="og:title" content="Lucia & German">
+    <meta property="og:url" content="https://nuestrabodaluyger.com">
+    <meta property="og:description" content="¡Nos Casamos!">
+    <meta property="og:site_name" content="Lucia & German">
+    <meta property="og:image" content="https://nuestrabodaluyger.com/images/og.jpg" />
+
 	<title>Lu & Ger </title>
 	<!-- Google Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
