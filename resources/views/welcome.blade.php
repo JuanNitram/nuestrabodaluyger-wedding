@@ -692,7 +692,7 @@
 
 									<div class="margin-b30">
 										<textarea name="message" id="msg-contact" rows="5"
-											placeholder="Message"></textarea>
+											placeholder="Mensaje"></textarea>
 									</div>
 
 									<div class="margin-b30">
