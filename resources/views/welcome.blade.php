@@ -28,6 +28,10 @@
 	<link rel="icon" href="images/icons/favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" href="images/icons/favicon-192x192.png" sizes="192x192" />
 	<link rel="apple-touch-icon-precomposed" href="images/icons/favicon-180x180.png" />
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 </head>
 
 <body class="home home-6">
@@ -236,8 +240,8 @@
 			<div class="swiper-slide slider-img" style="background-image: url('images/sliders/slider2.jpg');">
 				<div class="container slider-caption">
 					<div class="slider-text">
-						<h1 class="display-2">¡Nos casamos!</h1>
-						<span class="post-subtitle">¡Queremos que estés allí para celebrar con nosotros!</span>
+						<h1 class="display-2" style="font-family: 'Dancing Script', cursive;">¡Nos casamos!</h1>
+						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">¡Queremos que estés allí para celebrar con nosotros!</span>
 					</div>
 				</div>
 			</div>
@@ -245,8 +249,8 @@
 			<div class="swiper-slide slider-img" style="background-image: url('images/sliders/slider1.jpg');">
 				<div class="container slider-caption">
 					<div class="slider-text">
-						<h1 class="display-2">¡Nos casamos!</h1>
-						<span class="post-subtitle">¡Queremos que estés allí para celebrar con nosotros!</span>
+						<h1 class="display-2" style="font-family: 'Dancing Script', cursive;">¡Nos casamos!</h1>
+						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">¡Queremos que estés allí para celebrar con nosotros!</span>
 					</div>
 				</div>
 			</div>
@@ -254,8 +258,8 @@
 			<div class="swiper-slide slider-img" style="background-image: url('images/sliders/slider3.jpg');">
 				<div class="container slider-caption">
 					<div class="slider-text">
-						<h1 class="display-2">¡Nos casamos!</h1>
-						<span class="post-subtitle">¡Queremos que estés allí para celebrar con nosotros!</span>
+						<h1 class="display-2" style="font-family: 'Dancing Script', cursive;">¡Nos casamos!</h1>
+						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">¡Queremos que estés allí para celebrar con nosotros!</span>
 					</div>
 				</div>
 			</div>
@@ -296,7 +300,7 @@
 					<div class="col-lg-12 alignc">
 						<div class="padding-lr200">
 							<div class="el-smalltitle">Lucia & German</div>
-							<h2 class="display-4 margin-b30">Nuestra Historia</h2>
+							<h2 class="display-4 margin-b30" style="font-family: 'Dancing Script', cursive;">Nuestra Historia</h2>
 							<p>Hace 10 años, nosotros adolescentes, inesperadamente el destino nos cruzó para empezar a
 								vivir nuestra vida juntos. En un lugar y un tiempo donde ninguno de los dos imaginaba
 								encontrarse al amor de su vida.
@@ -652,7 +656,7 @@
 					<div class="col-lg-5 order-mobi1 margin-bm50">
 						<div class="margin-l50">
 							<div class="el-smalltitle">Lucia & German</div>
-							<h2 class="display-4 margin-b30">¡Llegó el gran día!</h2>
+							<h2 class="display-4 margin-b30" style="font-family: 'Dancing Script', cursive;">¡Llegó el gran día!</h2>
 							<p>
 								Hoy después de 10 años juntos estamos emocionados y felices de dar este gran paso, el
 								cual queremos que se convierta en un amor que perdure para toda la vida.
@@ -691,7 +695,7 @@
 						<div class="padding-lr200">
 							<div class="alignc">
 								<div class="el-smalltitle">Confirmar Presencia</div>
-								<h2 class="display-4 margin-b30">¡Confirma tu presencia aquí!</h2>
+								<h2 class="display-4 margin-b30" style="font-family: 'Dancing Script', cursive;">¡Confirma tu presencia aquí!</h2>
 								<p>Esperamos con ansias compartir este día tan especial con ustedes. ¡Nos vemos en la
 									boda!</p>
 							</div>
