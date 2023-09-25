@@ -6,10 +6,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<meta property="og:title" content="Lucia & German">
-    <meta property="og:url" content="https://nuestrabodaluyger.com">
-    <meta property="og:description" content="¡Nos Casamos!">
-    <meta property="og:site_name" content="Lucia & German">
-    <meta property="og:image" content="https://nuestrabodaluyger.com/images/og2.jpg" />
+	<meta property="og:url" content="https://nuestrabodaluyger.com">
+	<meta property="og:description" content="¡Nos Casamos!">
+	<meta property="og:site_name" content="Lucia & German">
+	<meta property="og:image" content="https://nuestrabodaluyger.com/images/og2.jpg" />
 
 	<title>Lu & Ger </title>
 	<!-- Google Fonts -->
@@ -297,11 +297,18 @@
 						<div class="padding-lr200">
 							<div class="el-smalltitle">Lucia & German</div>
 							<h2 class="display-4 margin-b30">Nuestra Historia</h2>
-							<p>Hace 10 años, nosotros adolescentes, inesperadamente el destino nos cruzó para empezar a vivir nuestra vida juntos. En un lugar y un tiempo donde ninguno de los dos imaginaba encontrarse al amor de su vida.
-								Parte de nuestras vidas ya se conocían gracias a  familiares de ambos, un lazo que nos unía incluso antes de conocernos personalmente.
-							</p><p>
-								Descubrimos que teníamos sueños similares, que compartíamos valores fundamentales y que disfrutabamos cada día de estar juntos.
-								El amor creció con cada sonrisa compartida, con cada gesto de amor y con cada desafío superado juntos. Nuestra historia se ha formado con confianza, respeto, la comprensión mutua y resistiendo las piedras que el tiempo nos ha puesto en el camino.</p>
+							<p>Hace 10 años, nosotros adolescentes, inesperadamente el destino nos cruzó para empezar a
+								vivir nuestra vida juntos. En un lugar y un tiempo donde ninguno de los dos imaginaba
+								encontrarse al amor de su vida.
+								Parte de nuestras vidas ya se conocían gracias a familiares de ambos, un lazo que nos
+								unía incluso antes de conocernos personalmente.
+							</p>
+							<p>
+								Descubrimos que teníamos sueños similares, que compartíamos valores fundamentales y que
+								disfrutabamos cada día de estar juntos.
+								El amor creció con cada sonrisa compartida, con cada gesto de amor y con cada desafío
+								superado juntos. Nuestra historia se ha formado con confianza, respeto, la comprensión
+								mutua y resistiendo las piedras que el tiempo nos ha puesto en el camino.</p>
 						</div>
 						<!-- /padding-lr200 -->
 					</div>
@@ -322,11 +329,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols wedding">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid1.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-3-cols.html"> </a></div>
+												src="images/grid/grid1.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-3-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-3-cols.html">Tracy
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-3-cols.html">Tracy
 													&amp; Aaron</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Wedding</a></li>
@@ -338,11 +345,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols wedding">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid2.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-4-cols.html"> </a></div>
+												src="images/grid/grid2.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-4-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-4-cols.html">Jane
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-4-cols.html">Jane
 													&amp; Paul</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Wedding</a></li>
@@ -354,11 +361,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols wedding">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid3.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-2-cols.html"> </a></div>
+												src="images/grid/grid3.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-2-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-2-cols.html">Angela
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-2-cols.html">Angela
 													&amp; Zach</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Wedding</a></li>
@@ -370,11 +377,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols wedding">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid4.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-5-cols.html"> </a></div>
+												src="images/grid/grid4.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-5-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-5-cols.html">Diana
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-5-cols.html">Diana
 													&amp; Max</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Wedding</a></li>
@@ -386,11 +393,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols lifestyle wedding">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-											src="images/grid/grid5.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-3-cols.html"> </a></div>
+												src="images/grid/grid5.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-3-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-3-cols.html">Tina
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-3-cols.html">Tina
 													&amp; Robi</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Lifestyle</a></li>
@@ -403,11 +410,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols lifestyle wedding">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid8.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-4-cols.html"> </a></div>
+												src="images/grid/grid8.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-4-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-4-cols.html">Clara
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-4-cols.html">Clara
 													&amp; Andrew</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Lifestyle</a></li>
@@ -420,11 +427,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols portrait">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid7.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-2-cols.html"> </a></div>
+												src="images/grid/grid7.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-2-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-2-cols.html">Street
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-2-cols.html">Street
 													People</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Portrait</a></li>
@@ -436,11 +443,11 @@
 								<div class="item-portfolio item-portfolio-v2 item-4cols lifestyle">
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
-												src="images/grid/grid6.jpg"
-												class="img-grid-v2" alt=" " width="750" height="750"> <a
-												href="gallery-grid-3-cols.html"> </a></div>
+												src="images/grid/grid6.jpg" class="img-grid-v2" alt=" " width="750"
+												height="750"> <a href="gallery-grid-3-cols.html"> </a></div>
 										<div class="item-text-holder-v2">
-											{{-- <h2 class="item-title display-6"><a href="gallery-grid-3-cols.html">Ballet
+											{{-- <h2 class="item-title display-6"><a
+													href="gallery-grid-3-cols.html">Ballet
 													Dancers</a></h2>
 											<ul class="portfolio-categ portfolio-categ-v2">
 												<li><a href="home-6.html#">Lifestyle</a></li>
@@ -502,7 +509,7 @@
 					<div class="col-lg-4 margin-bm30">
 						<div class="icon-box alignc">
 							<div class="icon-svg margin-b10">
-								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+								{{-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 									width="512" height="512" x="0" y="0" viewBox="0 0 74 74"
 									style="enable-background:new 0 0 512  512" xml:space="preserve" class="icon-1">
 									<g>
@@ -515,60 +522,37 @@
 											</path>
 										</g>
 									</g>
+								</svg> --}}
+								<svg xmlns="http://www.w3.org/2000/svg" fill="#000000" width="800px" height="800px"
+									viewBox="-1.5 0 19 19" class="cf-icon-svg">
+									<path
+										d="M15.442 14.75v.491H.558v-.49a.476.476 0 0 1 .475-.476h.478a.487.487 0 0 1-.003-.048v-.443a.476.476 0 0 1 .475-.475h.713V7.164H1.508a.554.554 0 0 1-.22-1.063L7.78 3.288a.554.554 0 0 1 .44 0L14.712 6.1a.554.554 0 0 1-.22 1.063h-1.188v6.145h.713a.476.476 0 0 1 .475.475v.443a.443.443 0 0 1-.003.048h.478a.476.476 0 0 1 .475.475zM3.804 13.31h2.058V8.264H3.804zm.377-7.254h7.639L8 4.4zm2.79 2.21v5.043h2.058V8.265zm5.225 5.043V8.265h-2.059v5.044z" />
 								</svg>
 							</div>
 							<!-- /icon-svg -->
-							<h5 class="margin-b10 white">Weddings</h5>
-							<p>Est sale definitiones id. Ut quo quem harum munere, eu labore voluptatum mei.</p>
-						</div>
+							<h5 class="margin-b10 white">Cuentas</h5>
+							<p>
+								ITAU - C. Ahorro: 4033873 - Gonzalo Piaggio
+								<br />
+								BBVA - C. Corriente: 22911847 - Lucia Mármol
+							</p>
+						</div>	
 						<!-- /icon-box-2 -->
 					</div>
 					<!-- /col-lg-4 -->
 					<div class="col-lg-4 margin-bm30">
 						<div class="icon-box alignc">
 							<div class="icon-svg margin-b10">
-								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-									width="512" height="512" x="0" y="0" viewBox="0 0 74 74"
-									style="enable-background:new 0 0 512 512" xml:space="preserve" class="icon-2">
-									<g>
-										<g xmlns="http://www.w3.org/2000/svg">
-											<path
-												d="m62.75 9.07h-51.5c-3.72 0-6.75 3.03-6.75 6.76v42.34c0 3.73 3.03 6.76 6.75 6.76h51.5c3.72 0 6.75-3.03 6.75-6.76v-42.34c0-3.73-3.03-6.76-6.75-6.76zm5.75 49.1c0 3.18-2.58 5.76-5.75 5.76h-51.5c-3.17 0-5.75-2.58-5.75-5.76v-42.34c0-3.18 2.58-5.76 5.75-5.76h51.5c3.17 0 5.75 2.58 5.75 5.76z"
-												class=""></path>
-											<path
-												d="m62.75 14.07h-51.5c-.96 0-1.75.79-1.75 1.76v42.34c0 .97.79 1.76 1.75 1.76h51.5c.96 0 1.75-.79 1.75-1.76v-42.34c0-.97-.79-1.76-1.75-1.76zm.75 44.1c0 .42-.34.76-.75.76h-51.5c-.41 0-.75-.34-.75-.76v-42.34c0-.42.34-.76.75-.76h51.5c.41 0 .75.34.75.76z"
-												class=""></path>
-											<path
-												d="m23.16 18.36h-5.3c-1.96 0-3.55 1.59-3.55 3.55v5.3c0 .28.22.5.5.5s.5-.22.5-.5v-5.3c0-1.41 1.15-2.55 2.55-2.55h5.3c.28 0 .5-.22.5-.5s-.22-.5-.5-.5z"
-												class=""></path>
-											<path
-												d="m56.14 18.36h-5.3c-.28 0-.5.22-.5.5s.22.5.5.5h5.3c1.41 0 2.55 1.15 2.55 2.55v5.3c0 .28.22.5.5.5s.5-.22.5-.5v-5.3c0-1.96-1.59-3.55-3.55-3.55z"
-												class=""></path>
-											<path
-												d="m59.19 46.29c-.28 0-.5.22-.5.5v5.3c0 1.41-1.15 2.55-2.55 2.55h-5.3c-.28 0-.5.22-.5.5s.22.5.5.5h5.3c1.96 0 3.55-1.59 3.55-3.55v-5.3c0-.28-.22-.5-.5-.5z"
-												class=""></path>
-											<path
-												d="m23.16 54.64h-5.3c-1.41 0-2.55-1.15-2.55-2.55v-5.3c0-.28-.22-.5-.5-.5s-.5.22-.5.5v5.3c0 1.96 1.59 3.55 3.55 3.55h5.3c.28 0 .5-.22.5-.5s-.22-.5-.5-.5z"
-												class=""></path>
-											<path
-												d="m45.89 43.26v-14.2c0-2.37-.93-4.6-2.6-6.28s-3.9-2.61-6.29-2.61c-4.9 0-8.89 3.99-8.89 8.89v14.19c-1.88 1.72-3.05 4.19-3.05 6.95v3.12c0 .28.22.5.5.5h22.87c.28 0 .5-.22.5-.5v-3.12c0-2.75-1.16-5.21-3.04-6.94zm-16.78-14.2c0-4.35 3.54-7.89 7.89-7.89 2.11 0 4.09.82 5.58 2.31s2.31 3.47 2.31 5.58v13.39c-1.31-.91-2.87-1.49-4.56-1.63v-.02c1.78-1.12 2.97-3.09 2.97-5.34v-3.18c0-.26-.2-.48-.46-.5-2.96-.24-5.65-1.44-8.22-3.68-.12-.11-.29-.15-.45-.11s-.29.15-.35.3c-.74 1.89-1.66 3.04-2.83 3.52-.19.08-.31.26-.31.46v3.18c0 2.25 1.19 4.22 2.97 5.34v.02c-1.69.15-3.24.72-4.55 1.63v-13.38zm7.89 11.71c-2.92 0-5.3-2.38-5.3-5.3v-2.87c1.14-.58 2.06-1.67 2.8-3.3 2.42 1.97 5.05 3.12 7.81 3.44v2.72c0 2.93-2.38 5.31-5.31 5.31zm-2.34.54c.72.29 1.51.46 2.34.46s1.61-.16 2.34-.45v.43c0 1.29-1.05 2.34-2.33 2.34-.63 0-1.21-.24-1.66-.69s-.69-1.03-.69-1.66zm13.27 11.52h-21.86v-2.63c0-2.54 1.11-4.81 2.88-6.36.01-.01.02-.02.03-.03 1.28-1.1 2.9-1.82 4.69-1.99.02.86.36 1.67.97 2.28.63.63 1.47.98 2.36.98 1.81 0 3.28-1.45 3.33-3.26 1.79.17 3.4.88 4.68 1.98.03.03.06.06.09.08 1.74 1.54 2.83 3.8 2.83 6.31z"
-												class=""></path>
-											<path
-												d="m38.58 37.61c-.15.13-1.46 1.26-2.96-.01-.21-.18-.53-.15-.71.06s-.15.53.06.71c.73.62 1.46.84 2.12.84.93 0 1.72-.44 2.17-.85.2-.19.22-.5.03-.71-.19-.22-.5-.23-.71-.04z"
-												class=""></path>
-											<path
-												d="m35.82 33.96c.16-.23.1-.54-.12-.7-.34-.24-1.11-.51-1.84 0-.23.16-.28.47-.12.7.1.14.25.21.41.21.1 0 .2-.03.29-.09.33-.23.66-.03.7 0 .21.16.52.11.68-.12z"
-												class=""></path>
-											<path
-												d="m38.31 33.27c-.23.16-.28.47-.12.7.1.14.25.21.41.21.1 0 .2-.03.29-.09.33-.23.66-.03.7 0 .23.15.53.1.69-.13s.1-.54-.12-.7c-.35-.23-1.12-.5-1.85.01z"
-												class=""></path>
-										</g>
-									</g>
+								<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24"
+									fill="none">
+									<path fill-rule="evenodd" clip-rule="evenodd"
+										d="M12.2848 18.9935C12.1567 19.0875 12.0373 19.1728 11.9282 19.2493C11.8118 19.1721 11.6827 19.0833 11.5427 18.9832C10.8826 18.5109 10.0265 17.8176 9.18338 16.9529C7.45402 15.1792 6 12.9151 6 10.5C6 7.18629 8.68629 4.5 12 4.5C15.3137 4.5 18 7.18629 18 10.5C18 12.8892 16.4819 15.1468 14.6893 16.9393C13.8196 17.8091 12.9444 18.5099 12.2848 18.9935ZM19.5 10.5C19.5 16.5 12 21 12 21C11.625 21 4.5 16.5 4.5 10.5C4.5 6.35786 7.85786 3 12 3C16.1421 3 19.5 6.35786 19.5 10.5ZM13.5 10.5C13.5 11.3284 12.8284 12 12 12C11.1716 12 10.5 11.3284 10.5 10.5C10.5 9.67157 11.1716 9 12 9C12.8284 9 13.5 9.67157 13.5 10.5ZM15 10.5C15 12.1569 13.6569 13.5 12 13.5C10.3431 13.5 9 12.1569 9 10.5C9 8.84315 10.3431 7.5 12 7.5C13.6569 7.5 15 8.84315 15 10.5Z"
+										fill="#080341" />
 								</svg>
 							</div>
 							<!-- /icon-svg -->
-							<h5 class="margin-b10 white">Portraits</h5>
-							<p>Est sale definitiones id. Ut quo quem harum munere, eu labore voluptatum mei.</p>
+							<h5 class="margin-b10 white">Localidad</h5>
+							<p>Harás los vagones <br/> <a href="https://maps.app.goo.gl/vkDGP2yd7TPfVG5P7" target="_blank" style="color: white; text-decoration: underline">Camino de la redención 8660</a></p>
 						</div>
 						<!-- /icon-box-2 -->
 					</div>
@@ -577,25 +561,18 @@
 						<div class="icon-box alignc">
 							<div class="icon-svg margin-b10">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-									width="512" height="512" x="0" y="0" viewBox="0 0 74 74"
-									style="enable-background:new 0 0 512 512" xml:space="preserve" class="icon-3">
+									fill="#000000" height="800px" width="800px" version="1.1" id="Layer_1"
+									viewBox="0 0 512 512" xml:space="preserve" style="width: 50px; height: 50px">
 									<g>
-										<g xmlns="http://www.w3.org/2000/svg">
+										<g>
 											<path
-												d="m51.93 13.38.78-.78c.74-.8.39-1.75-.02-2.18-.6-.59-1.58-.59-2.18 0l-.76.76c-9.18-8.18-22.76-9.01-32.89-1.78-.4.29-.59.79-.5 1.27.09.47.44.83.9.94.97.23 1.89.74 2.64 1.5 1.27 1.27 1.86 3 1.53 4.52-.09.42.03.85.33 1.15v.01c.01.01.03.02.05.03.29.26.69.38 1.1.29 1.52-.33 3.25.26 4.52 1.53s1.86 3 1.54 4.52c-.09.42.03.85.33 1.15.09.09.19.16.3.21h.01c.25.13.54.17.83.11.88-.19 1.84-.06 2.74.33l-4.97 4.97c-.09.09-.15.22-.15.35v2.92h-.07c-.41 0-.75.23-.95.55l-2.19-2.19.74-.73s0 0 .01-.01c.52-.54.52-1.37 0-1.91l-4.06-4.06c-.51-.51-1.4-.51-1.91 0l-3.02 3.02c-.8.81-1.24 1.87-1.24 2.98s.44 2.17 1.24 2.98c.83.82 1.91 1.23 2.99 1.23.89 0 1.77-.29 2.51-.85l4.73 4.79v1.1c0 .63.51 1.13 1.13 1.13h.07v8.22h-3.51c-1.05 0-1.9.85-1.9 1.9 0 1.04.85 1.89 1.9 1.89h.17l-6.27 13.57c-.07.16-.06.34.03.48s.25.23.42.23h4.36c.2 0 .37-.11.45-.29l4.35-9.4v9.19c0 .28.22.5.5.5h3.96c.28 0 .5-.22.5-.5v-9.19l4.35 9.4c.08.18.26.29.45.29h4.36c.17 0 .33-.09.42-.23s.1-.32.03-.48l-6.27-13.57h.17c1.05 0 1.9-.85 1.9-1.89 0-1.05-.85-1.9-1.9-1.9h-3.51v-8.22h.07c.63 0 1.13-.51 1.13-1.13v-5.74c0-.63-.51-1.13-1.13-1.13h-.07v-1.07l3.41-3.41c.17.66.2 1.33.06 1.96-.06.29-.02.57.1.82 0 .01.01.02.01.03.06.11.12.21.21.29.3.3.72.42 1.15.33 1.52-.33 3.25.26 4.52 1.53s1.86 3 1.54 4.52c-.08.39.02.78.27 1.07.02.02.03.05.05.07h.01c.3.3.72.42 1.15.33 1.52-.33 3.25.26 4.52 1.53.76.76 1.28 1.67 1.5 2.64.11.46.47.8.94.9.08.02.17.02.25.02.4 0 .79-.19 1.02-.52 7.25-10.11 6.42-23.69-1.78-32.89zm-14.37 18.71c.07-1.62-.61-3.33-1.91-4.62-1.29-1.29-3-1.97-4.62-1.9 10.6-10.13 17.9-13.87 19.15-12.63 1.24 1.26-2.5 8.56-12.62 19.15zm13.65-20.95c.21-.21.56-.21.77-.01 0 0 .36.4.01.78l-.73.73c-.13-.13-.24-.27-.37-.4s-.27-.24-.41-.37zm-30.61 1.28c-.89-.88-1.96-1.49-3.12-1.76-.1-.02-.13-.1-.15-.16-.02-.08 0-.2.1-.26 8.56-6.12 19.68-6.24 28.25-.85-6.51-1.65-15.53 1.31-23.23 8.13.25-1.76-.43-3.68-1.85-5.1zm7.52 7.53c-1.33-1.33-3.1-2.02-4.77-1.9 8.9-7.75 19.48-10.28 25.44-6.22-3.98.68-11.8 6.61-18.84 13.39.33-1.8-.36-3.8-1.83-5.27zm-10.83 15.2c-.61-.62-.95-1.43-.95-2.28s.34-1.66.94-2.28l3.02-3.02c.07-.07.15-.1.25-.1.09 0 .18.04.25.1l4.05 4.06c.14.15.14.36 0 .51l-3.02 3.01c-1.24 1.25-3.28 1.25-4.54 0zm5.54.43 1.29-1.29 2.72 2.72v2.58zm.1 32.94h-3.26l6.14-13.28h3.26zm9.08 0h-2.96v-10.86l1.12-2.42h.72l1.12 2.42zm9.37 0h-3.26l-6.14-13.28h3.26zm-3.97-15.17c0 .49-.4.89-.9.89h-11.97c-.5 0-.9-.4-.9-.89s.4-.9.9-.9h11.98c.49 0 .89.41.89.9zm-5.4-1.9h-2.96v-8.22h2.96zm1.2-15.09v5.74c0 .07-.06.13-.13.13h-5.1c-.07 0-.13-.06-.13-.13v-5.74c0-.07.06-.13.13-.13h5.1c.07-.01.13.05.13.13zm-1.06-2.77c-.05.05-.14.13-.15.35v1.28h-2.96v-2.71l5.03-5.03c.3.21.6.44.86.7.46.46.83.98 1.1 1.52zm11.03 1.41c-1.46-1.46-3.46-2.15-5.27-1.82 6.78-7.05 12.7-14.87 13.39-18.85 4.06 5.95 1.53 16.53-6.22 25.44.12-1.66-.57-3.44-1.9-4.77zm9.73 10.69c-.07.1-.18.12-.27.1-.06-.01-.14-.05-.16-.14-.27-1.15-.88-2.23-1.77-3.12-1.23-1.23-2.83-1.91-4.38-1.91-.24 0-.47.02-.71.06 6.81-7.71 9.78-16.73 8.12-23.24 5.4 8.58 5.28 19.7-.83 28.25z"
-												class=""></path>
-											<path
-												d="m22.4 33.17c.2-.2.2-.51 0-.71l-2.56-2.56c-.2-.2-.51-.2-.71 0s-.2.51 0 .71l2.56 2.56c.1.1.23.15.35.15s.26-.05.36-.15z"
-												class=""></path>
-											<path
-												d="m18.34 31.41c-.2-.2-.51-.2-.71 0s-.2.51 0 .71l2.56 2.56c.1.1.23.15.35.15s.26-.05.35-.15c.2-.2.2-.51 0-.71z"
-												class=""></path>
+												d="M465.867,350.416c-15.776-59.866-45.901-123.439-51.279-131.503c-36.667-55.002-36.667-137.955,0-192.956    C421.979,14.867,413.997,0,400.696,0h-77.913c-9.22,0-16.696,7.475-16.696,16.696c0,27.618-22.469,50.087-50.087,50.087    c-27.618,0-50.087-22.469-50.087-50.087c0-9.22-7.475-16.696-16.696-16.696h-77.913C97.978,0,90.033,14.89,97.414,25.956    c36.667,55.002,36.667,137.955,0,192.956c-0.387,0.581-0.853,1.417-1.131,1.976c-44.915,90.339-68.457,174.181-68.457,274.416    c0,9.22,7.475,16.696,16.696,16.696h422.957c9.22,0,16.696-7.475,16.696-16.696C484.174,444.558,478.186,397.165,465.867,350.416z     M139.565,33.391h34.635c7.758,38.056,41.488,66.783,81.801,66.783s74.043-28.727,81.801-66.783h34.631    c-12.262,26.991-18.816,57.826-18.761,89.362c0.053,31.327,6.609,61.936,18.768,88.725H139.565    c12.21-26.889,18.766-57.613,18.766-89.043C158.33,91.006,151.774,60.28,139.565,33.391z M61.441,478.609    c2.196-80.78,20.633-152.113,60.249-233.739h39.701v50.087c0,9.22,7.475,16.696,16.696,16.696s16.696-7.475,16.696-16.696V244.87    h44.522v50.087c0,9.22,7.475,16.696,16.696,16.696c9.22,0,16.696-7.475,16.696-16.696V244.87h44.522v50.087    c0,9.22,7.475,16.696,16.696,16.696s16.696-7.475,16.696-16.696V244.87h39.701c39.617,81.625,58.053,152.958,60.249,233.739    H61.441z" />
 										</g>
 									</g>
 								</svg>
 							</div>
 							<!-- /icon-svg -->
-							<h5 class="margin-b10 white">Fashion</h5>
+							<h5 class="margin-b10 white">Vestimenta</h5>
 							<p>Est sale definitiones id. Ut quo quem harum munere, eu labore voluptatum mei.</p>
 						</div>
 						<!-- /icon-box-2 -->
@@ -620,10 +597,9 @@
 								</div>
 								<h5 class="margin-b10"> Lucia</h5>
 								<ul class="social-media social-team">
-									<li><a href="home-6.html#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+									<li><a href="https://www.facebook.com/Luuuulei?mibextid=LQQJ4d" target="_blank"><i class="fab fa-facebook-f"></i></a>
 									</li>
-									<li><a href="home-6.html#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="home-6.html#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+									<li><a href="https://instagram.com/luupita3?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fab fa-instagram"></i></a></li>
 								</ul>
 							</div>
 							<!-- /col-lg-4 -->
@@ -634,10 +610,9 @@
 								</div>
 								<h5 class="margin-b10">German</h5>
 								<ul class="social-media social-team">
-									<li><a href="home-6.html#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+									<li><a href="https://www.facebook.com/german.piaggio.90?mibextid=LQQJ4d" target="_blank"><i class="fab fa-facebook-f"></i></a>
 									</li>
-									<li><a href="home-6.html#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="home-6.html#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+									<li><a href="https://instagram.com/germanpiaggio?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fab fa-instagram"></i></a></li>
 								</ul>
 							</div>
 							<!-- /col-lg-4 -->
@@ -648,12 +623,15 @@
 					<div class="col-lg-5 order-mobi1 margin-bm50">
 						<div class="margin-l50">
 							<div class="el-smalltitle">Lucia & German</div>
-							<h2 class="display-4 margin-b30">Meet Our Award Winning Team</h2>
+							<h2 class="display-4 margin-b30">¡Llegó el gran día!</h2>
 							<p>
-								Hoy después de 10 años juntos estamos emocionados y felices de dar este gran paso, el cual queremos que se convierta  en un amor que perdure para toda la vida.
+								Hoy después de 10 años juntos estamos emocionados y felices de dar este gran paso, el
+								cual queremos que se convierta en un amor que perdure para toda la vida.
 							</p>
 							<p>
-								Seremos muy felices en celebrar este momento que marca el final de un capítulo y el comienzo de una nueva aventura en nuestras vidas con todos ustedes, nuestras familias y amigos, quienes han sido testigos de nuestro crecimiento.
+								Seremos muy felices en celebrar este momento que marca el final de un capítulo y el
+								comienzo de una nueva aventura en nuestras vidas con todos ustedes, nuestras familias y
+								amigos, quienes han sido testigos de nuestro crecimiento.
 							</p>
 							<p>
 								Esperamos contar con su presencia para compartir este día inolvidable.
@@ -685,7 +663,8 @@
 							<div class="alignc">
 								<div class="el-smalltitle">Confirmar Presencia</div>
 								<h2 class="display-4 margin-b30">¡Confirma tu presencia aquí!</h2>
-								<p>Esperamos con ansias compartir este día tan especial con ustedes. ¡Nos vemos en la boda!</p>
+								<p>Esperamos con ansias compartir este día tan especial con ustedes. ¡Nos vemos en la
+									boda!</p>
 							</div>
 							<div id="contact-form-holder" class="margin-t50">
 								<form id="atendee-form">
