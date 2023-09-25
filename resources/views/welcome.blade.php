@@ -295,12 +295,13 @@
 				<div class="row">
 					<div class="col-lg-12 alignc">
 						<div class="padding-lr200">
-							<div class="el-smalltitle">Tilia Photography Studio</div>
-							<h2 class="display-4 margin-b30">We Love to Capture Beauty, Emotions and Magic Moments from
-								Your Events</h2>
-							<p>We love photography and travel for meeting new beautiful people all over the world.
-								Propriae voluptaria dissentias nam ei, posse diceret inciderint cum ut, gubergren
-								sadipscing ei vim. Ancillae torquatos in nec, impetus nostrum.</p>
+							<div class="el-smalltitle">Lucia & German</div>
+							<h2 class="display-4 margin-b30">Nuestra Historia</h2>
+							<p>Hace 10 años, nosotros adolescentes, inesperadamente el destino nos cruzó para empezar a vivir nuestra vida juntos. En un lugar y un tiempo donde ninguno de los dos imaginaba encontrarse al amor de su vida.
+								Parte de nuestras vidas ya se conocían gracias a  familiares de ambos, un lazo que nos unía incluso antes de conocernos personalmente.
+							</p><p>
+								Descubrimos que teníamos sueños similares, que compartíamos valores fundamentales y que disfrutabamos cada día de estar juntos.
+								El amor creció con cada sonrisa compartida, con cada gesto de amor y con cada desafío superado juntos. Nuestra historia se ha formado con confianza, respeto, la comprensión mutua y resistiendo las piedras que el tiempo nos ha puesto en el camino.</p>
 						</div>
 						<!-- /padding-lr200 -->
 					</div>
@@ -464,11 +465,8 @@
 		<div id="home-section-6-3" class="section-holder home-section-6-3">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 margin-bm50">
-						<div class="el-smalltitle">Photo & Video</div>
-						<h2 class="display-4 margin-b30">Awards & Honors</h2>
-						<p>Veri ubique cu eam, vero dicta ridens ei quo, ex putent menandri accommodare sed. Suscipit
-							lobortis prodesset ut eam. Sale dicta dolore pri et, an aliquam albucius volutpat est.</p>
+					<div class="col-lg-12 margin-bm50 alignc">
+						<div class="el-smalltitle">Lucia & German</div>
 					</div>
 					<!-- /col-lg-6 -->
 					<div class="col-lg-6">
@@ -649,14 +647,17 @@
 					<!-- /col-lg-7 -->
 					<div class="col-lg-5 order-mobi1 margin-bm50">
 						<div class="margin-l50">
-							<div class="el-smalltitle">Who We Are</div>
+							<div class="el-smalltitle">Lucia & German</div>
 							<h2 class="display-4 margin-b30">Meet Our Award Winning Team</h2>
-							<p>Veri ubique cu eam, vero dicta ridens ei quo, ex putent menandri accommodare sed.
-								Suscipit lobortis prodesset ut eam. Sale dicta dolore pri et, an aliquam albucius
-								volutpat est.</p>
-							<p>Ad graeci theophrastus, libris timeam sapientem. Pellentes faucibus sollicitudin ante,at
-								porta felisrutrum eget. Sed ut nisl urna.</p>
-							<a href="home-6.html#" class="read-more margin-t30">Read More</a>
+							<p>
+								Hoy después de 10 años juntos estamos emocionados y felices de dar este gran paso, el cual queremos que se convierta  en un amor que perdure para toda la vida.
+							</p>
+							<p>
+								Seremos muy felices en celebrar este momento que marca el final de un capítulo y el comienzo de una nueva aventura en nuestras vidas con todos ustedes, nuestras familias y amigos, quienes han sido testigos de nuestro crecimiento.
+							</p>
+							<p>
+								Esperamos contar con su presencia para compartir este día inolvidable.
+							</p>
 						</div>
 					</div>
 					<!-- /col-lg-5 -->
