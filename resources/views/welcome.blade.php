@@ -242,6 +242,7 @@
 					<div class="slider-text">
 						<h1 class="display-2" style="font-family: 'Dancing Script', cursive;">¡Nos casamos!</h1>
 						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">¡Queremos que estés allí para celebrar con nosotros!</span>
+						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">27 de octubre 2023 - Hora 20:00</span>
 					</div>
 				</div>
 			</div>
@@ -251,6 +252,7 @@
 					<div class="slider-text">
 						<h1 class="display-2" style="font-family: 'Dancing Script', cursive;">¡Nos casamos!</h1>
 						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">¡Queremos que estés allí para celebrar con nosotros!</span>
+						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">27 de octubre 2023 - Hora 20:00</span>
 					</div>
 				</div>
 			</div>
@@ -260,6 +262,7 @@
 					<div class="slider-text">
 						<h1 class="display-2" style="font-family: 'Dancing Script', cursive;">¡Nos casamos!</h1>
 						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">¡Queremos que estés allí para celebrar con nosotros!</span>
+						<span class="post-subtitle" style="font-family: 'Dancing Script', cursive; font-size: 22px;">27 de octubre 2023 - Hora 20:00</span>
 					</div>
 				</div>
 			</div>
