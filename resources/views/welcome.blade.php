@@ -224,16 +224,6 @@
 		</div>
 		<!-- /container -->
 	</div>
-	<!-- /MOBILE MENU HOLDER -->
-	<!-- HEADER -->
-	<header class="main-header header-5">
-		<div class="container">
-			<div class="top-header top-header-5">
-
-			</div>
-		</div>
-	</header>
-	<!-- /HEADER -->
 	<!-- HOME SLIDER -->
 	<div class="swiper-mt">
 		<div class="swiper-wrapper">
