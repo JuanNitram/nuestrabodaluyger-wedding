@@ -327,7 +327,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid1.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-3-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-3-cols.html">Tracy
@@ -343,7 +343,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid2.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-4-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-4-cols.html">Jane
@@ -359,7 +359,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid3.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-2-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-2-cols.html">Angela
@@ -375,7 +375,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid4.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-5-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-5-cols.html">Diana
@@ -391,7 +391,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid5.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-3-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-3-cols.html">Tina
@@ -408,7 +408,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid8.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-4-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-4-cols.html">Clara
@@ -425,7 +425,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid7.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-2-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-2-cols.html">Street
@@ -441,7 +441,7 @@
 									<div class="item-portfolio-holder-v2">
 										<div class="post-image item-grid-image-v2"><img loading="lazy"
 												src="images/grid/grid6.jpg" class="img-grid-v2" alt=" " width="750"
-												height="750"> <a href="gallery-grid-3-cols.html"> </a></div>
+												height="750"></div>
 										<div class="item-text-holder-v2">
 											{{-- <h2 class="item-title display-6"><a
 													href="gallery-grid-3-cols.html">Ballet
@@ -614,8 +614,8 @@
 						<div class="row margin-b50less">
 							<div class="col-md-6 margin-b50">
 								<div class="mt-img-scale margin-b15">
-									<a href="home-6.html#"><img class="img-fluid radius10" src="images/profile/she.jpg"
-											alt=" " /></a>
+									<img class="img-fluid radius10" src="images/profile/she.jpg"
+											alt=" " />
 								</div>
 								<h5 class="margin-b10"> Lucia</h5>
 								<ul class="social-media social-team">
@@ -629,8 +629,8 @@
 							<!-- /col-lg-4 -->
 							<div class="col-md-6 margin-b50">
 								<div class="mt-img-scale margin-b15">
-									<a href="home-6.html#"><img class="img-fluid radius10" src="images/profile/he.jpg"
-											alt=" " /></a>
+									<img class="img-fluid radius10" src="images/profile/he.jpg"
+											alt=" " />
 								</div>
 								<h5 class="margin-b10">German</h5>
 								<ul class="social-media social-team">
